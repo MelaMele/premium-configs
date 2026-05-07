@@ -1,0 +1,1 @@
+vless://838e120d-773a-4467-96a2-671239859f51@162.159.193.1:443?encryption=none&security=tls&sni=melaku-vpn-update.melamele06.workers.dev&type=ws&host=melaku-vpn-update.melamele06.workers.dev&path=%2F#Melaku_Premium_Net
